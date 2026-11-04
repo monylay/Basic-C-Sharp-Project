@@ -1,0 +1,1 @@
+This repository will contain all the assignments and projects that will be completed in C#
