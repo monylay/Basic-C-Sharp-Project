@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MonyLay\\Documents\\GitHub\\Basic-C-Sharp-Project\\Basic_C#_Programs\\IncomeComparisonProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2361AC7-E0CE-48F2-A85C-9C190C560CE5}|IncomeComparisonProgram\\IncomeComparisonProgram.csproj|c:\\users\\monylay\\documents\\github\\basic-c-sharp-project\\basic_c#_programs\\incomecomparisonprogram\\incomecomparisonprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2361AC7-E0CE-48F2-A85C-9C190C560CE5}|IncomeComparisonProgram\\IncomeComparisonProgram.csproj|solutionrelative:incomecomparisonprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MonyLay\\Documents\\GitHub\\Basic-C-Sharp-Project\\Basic_C#_Programs\\IncomeComparisonProgram\\IncomeComparisonProgram\\Program.cs",
+              "RelativeDocumentMoniker": "IncomeComparisonProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\MonyLay\\Documents\\GitHub\\Basic-C-Sharp-Project\\Basic_C#_Programs\\IncomeComparisonProgram\\IncomeComparisonProgram\\Program.cs",
+              "RelativeToolTip": "IncomeComparisonProgram\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T19:04:34.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
