@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MonyLay\\Desktop\\Basic_C#_Programs\\Daily_Report\\",
+  "WorkspaceRootPath": "C:\\Users\\MonyLay\\Documents\\GitHub\\Basic-C-Sharp-Project\\Basic_C#_Programs\\Daily_Report\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB873299-C256-4838-AEE5-B0D60E898270}|Daily_Report\\Daily_Report.csproj|c:\\users\\monylay\\desktop\\basic_c#_programs\\daily_report\\daily_report\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB873299-C256-4838-AEE5-B0D60E898270}|Daily_Report\\Daily_Report.csproj|c:\\users\\monylay\\documents\\github\\basic-c-sharp-project\\basic_c#_programs\\daily_report\\daily_report\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB873299-C256-4838-AEE5-B0D60E898270}|Daily_Report\\Daily_Report.csproj|solutionrelative:daily_report\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MonyLay\\Desktop\\Basic_C#_Programs\\Daily_Report\\Daily_Report\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MonyLay\\Documents\\GitHub\\Basic-C-Sharp-Project\\Basic_C#_Programs\\Daily_Report\\Daily_Report\\Program.cs",
               "RelativeDocumentMoniker": "Daily_Report\\Program.cs",
-              "ToolTip": "C:\\Users\\MonyLay\\Desktop\\Basic_C#_Programs\\Daily_Report\\Daily_Report\\Program.cs",
+              "ToolTip": "C:\\Users\\MonyLay\\Documents\\GitHub\\Basic-C-Sharp-Project\\Basic_C#_Programs\\Daily_Report\\Daily_Report\\Program.cs",
               "RelativeToolTip": "Daily_Report\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCUAAABnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAC3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-24T05:11:04.605Z",
               "EditorCaption": ""
