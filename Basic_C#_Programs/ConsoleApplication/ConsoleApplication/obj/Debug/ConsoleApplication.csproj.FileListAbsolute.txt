@@ -1,0 +1,7 @@
+C:\Users\MonyLay\Documents\GitHub\Basic-C-Sharp-Project\Basic_C#_Programs\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\MonyLay\Documents\GitHub\Basic-C-Sharp-Project\Basic_C#_Programs\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\MonyLay\Documents\GitHub\Basic-C-Sharp-Project\Basic_C#_Programs\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\MonyLay\Documents\GitHub\Basic-C-Sharp-Project\Basic_C#_Programs\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\MonyLay\Documents\GitHub\Basic-C-Sharp-Project\Basic_C#_Programs\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\MonyLay\Documents\GitHub\Basic-C-Sharp-Project\Basic_C#_Programs\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\MonyLay\Documents\GitHub\Basic-C-Sharp-Project\Basic_C#_Programs\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
